@@ -20,7 +20,7 @@
 </div>
 
 
-# 💫 About Me:
+# 💫😎 About Me:
 👋 Hi, I’m Chitransh!<br>
 💻 I’m a passionate Developer and Competitive Programmer.<br>
 📚 Currently learning ML and Data Science to enhance my skills.<br>
