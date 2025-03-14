@@ -24,9 +24,7 @@
 ![ChitranshGuha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitranshGuha&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6)
 
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChitranshGuha&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-
----
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChitranshGuha&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 [![](https://visitcount.itsvg.in/api?id=ChitranshGuha&icon=7&color=6)](https://visitcount.itsvg.in)
