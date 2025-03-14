@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-###🌐 Socials:
-<div id="badges">
+### 🌐 Socials:
+<div id="badges" align="center">
   <a href="https://www.instagram.com/chitransh_guha/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
+
 
 # 💫 About Me:
 👋 Hi, I’m Chitransh!<br>
