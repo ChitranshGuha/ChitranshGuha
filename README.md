@@ -1,13 +1,14 @@
 # 💫 About Me:
 👋 Hi, I’m Chitransh!<br>  
-💻 I’m a passionate Developer and Competitive Programmer.  <br>
+💻 I’m a passionate Developer and Competitive Programmer.<br>
 📚 Currently learning ML and Data Science to enhance my skills.<br>  
 🚀 I’m open to collaborating on web development and open-source projects!<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-## 🌐 Socials:
+### **💡 Daily Dose of Wisdom**
+![](https://api.wisdomquotesapi.com/v1/quotes/random?category=life&type=horizontal&theme=dracula)
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chitransh_guha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitransh-guha-642317253/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]() [![CodeChef](https://img.shields.io/badge/CodeChef-%23A5C300.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chitranshguha5)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Chitransh_Guha_5/)
 
 # 💻 Tech Stack:
