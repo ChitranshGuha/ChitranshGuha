@@ -1,14 +1,30 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### 🌐 Socials:
+<div id="badges">
+  <a href="https://www.instagram.com/chitransh_guha/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chitransh-guha-642317253/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/chitranshguha5">
+    <img src="https://img.shields.io/badge/CodeChef-%23A5C300.svg?logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Chitransh_Guha_5/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
+
 # 💫 About Me:
 👋 Hi, I’m Chitransh!<br>
 💻 I’m a passionate Developer and Competitive Programmer.<br>
 📚 Currently learning ML and Data Science to enhance my skills.<br>
 🚀 I’m open to collaborating on web development and open-source projects!<br>
-
-### 💡 Daily Dose of Wisdom
-![Random Quote](https://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=image)
-
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chitransh_guha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitransh-guha-642317253/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]() [![CodeChef](https://img.shields.io/badge/CodeChef-%23A5C300.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/chitranshguha5)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Chitransh_Guha_5/)
 
 # 💻 Tech Stack:
 ### Languages:
