@@ -8,7 +8,10 @@
   <a href="https://www.linkedin.com/in/chitransh-guha-642317253/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://portfolio-1bqagusda-chitransh-guhas-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://pin.it/6MGLjv31U ">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
   <a href="https://www.codechef.com/users/chitranshguha5">
