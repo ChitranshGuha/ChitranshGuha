@@ -28,6 +28,7 @@
 💻 I’m a passionate Developer and Competitive Programmer.<br>
 📚 Currently learning ML and Data Science to enhance my skills.<br>
 🚀 I’m open to collaborating on web development and open-source projects!<br>
+💡 *The only way this is a "bad position" is if you coast, do the bare minimum, and don't learn. Given your preparation, you are not that person.*<br>
 
 # 💻 Tech Stack:
 ### Languages:
